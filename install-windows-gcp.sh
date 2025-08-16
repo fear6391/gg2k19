@@ -2,7 +2,7 @@
 
 # wget -qO- https://raw.githubusercontent.com/ngxson/public-assets/main/install-windows-gcp.sh | sudo bash
 
-IMAGE_URL="https://huggingface.co/nt6391/ggw2k19/resolve/main/w2k22gg.raw.gz"
+IMAGE_URL="https://huggingface.co/nt6391/ggw2k19/resolve/main/w2k25gg.raw.gz"
 
 if [ "$EUID" -ne 0 ]
   then echo "Please run as root"
